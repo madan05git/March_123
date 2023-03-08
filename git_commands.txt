@@ -4,3 +4,5 @@ to clone repository
 
 * add --all
 *git commit -m "first commit"
+git push "repo_link"
+git pull "repo_link"
