@@ -1,3 +1,6 @@
 
 to clone repository
 * git clone https://github.com/madan05git/March_123.git
+
+* add --all
+*git commit -m "first commit"
